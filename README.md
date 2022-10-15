@@ -1,6 +1,6 @@
 # hello_flutter
 
-My first Flutter project.
+My first Flutter project for course.
 
 ## Getting Started
 
